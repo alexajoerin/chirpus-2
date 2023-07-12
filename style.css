@@ -116,16 +116,6 @@ footer ul {
     right: 100px;
   }
 
-  #medium-circle {
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
-    background-color: rgba(247, 193, 162, 0.7);
-    position: absolute;
-    right: 40px;
-    top: 140px;
-  }
-
   #small-circle {
     height: 150px;
     width: 150px;
@@ -134,5 +124,15 @@ footer ul {
     position: absolute;
     right: 10px;
     top: 40px;
+  }
+
+  #medium-circle {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: rgba(247, 193, 162, 0.7);
+    position: absolute;
+    right: 40px;
+    top: 140px;
   }
 }
